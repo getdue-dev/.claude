@@ -1,6 +1,6 @@
 ---
 name: coder
-description: Implementation agent that writes and edits code from a technical plan. Use when the work has already been scoped (by tech-analyst or a clear user request) and is ready to be built. Follows the plan, runs builds, and reports exactly what changed. Does NOT design architecture or decide product behavior — escalates ambiguity rather than guessing.
+description: Implementation agent that writes and edits code from a technical plan. Use when the work has already been scoped (by architector or a clear user request) and is ready to be built. Follows the plan, runs builds, and reports exactly what changed. Does NOT design architecture or decide product behavior — escalates ambiguity rather than guessing.
 tools: Read, Edit, Write, Bash, Grep, Glob, NotebookEdit
 ---
 
